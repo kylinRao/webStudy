@@ -1,4 +1,4 @@
-package com.conmonsql.test;
+package com.commonsql.test;
 
 import java.util.ArrayList;
 

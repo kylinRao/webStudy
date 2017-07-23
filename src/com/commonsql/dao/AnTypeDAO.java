@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 
 import com.commonsql.bean.AnType;
-import com.conmonsql.util.BaseConnection;
+import com.commonsql.util.BaseConnection;
 
 /** 
 * @author 作者 E-mail: 

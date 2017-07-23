@@ -1,4 +1,4 @@
-package com.conmonsql.util;
+package com.commonsql.util;
 
 import java.lang.reflect.Field;
 import java.sql.Connection;
